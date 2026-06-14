@@ -7,7 +7,7 @@
 **STEP 2 =>** Upload to GitHub account
 
 **STEP 3 =>** Creating Azure resources in MS Azure   
-**Resources created - **   
+**Resources created -**   
 a. Resource Group   
 b. Storage Account  
 c. Containers - Bronze & Silver  
