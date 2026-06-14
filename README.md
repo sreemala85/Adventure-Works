@@ -6,14 +6,14 @@
 **STEP 1 =>** Download all the files from Kaggle    
 **STEP 2 =>** Upload to GitHub account
 
-**STEP 3 =>** Creating Azure resources in MS Azure 
-**Resources created - ** 
-a. Resource Group
-b. Storage Account
-c. Containers - Bronze & Silver
-d. Azure Data Factory workspace
-e. Databricks workspace
-f. Microsoft Entra Id
+**STEP 3 =>** Creating Azure resources in MS Azure   
+**Resources created - **   
+a. Resource Group   
+b. Storage Account  
+c. Containers - Bronze & Silver  
+d. Azure Data Factory workspace  
+e. Databricks workspace  
+f. Microsoft Entra Id  
 
 **STEP 4 =>** Launch ADF workspace to ingest raw data from Github to ADLS (**BRONZE container**)
 <img width="614" height="302" alt="image" src="https://github.com/user-attachments/assets/2ee7a429-a7eb-40fa-ba27-86201b37984d" />
